@@ -13,6 +13,13 @@ Using Python TensorFlow Library to create a robust deep learning neural network 
 
 		* EIN and NAME columns were neither targets or features and therefore dropped from the model early on 
 
+	* Compiling, Training, and Evaluating the model 
+		
+		* I was not able to achieve target model performance. 
+		
+		* I added more hidden layers and altered the nodes. 
+
+
 
 
 
